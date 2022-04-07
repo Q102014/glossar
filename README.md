@@ -1,0 +1,2 @@
+# glossar
+Fachbegriffe einfach erklärt
