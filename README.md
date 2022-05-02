@@ -1,5 +1,5 @@
-# glossar<br>
-Fachbegriffe einfach erklärt<br>
+# Glossary<br>
+The best in collaborative work. Learned from working with Wikipedia/Wikidata ;-)<br>
 <br>
 <b>#SmartSetting</b><br>
 Computer mediated Communication<br>
